@@ -22,4 +22,3 @@ if __name__ == "__main__":  # main thread 흐름을 타는 시작점
     x.start()  # 서브 스레드 시작
 
     logging.info("[Main-Thread] 프로그램을 종료합니다.")
-    #
